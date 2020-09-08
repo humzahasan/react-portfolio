@@ -1,138 +1,163 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Humza Hasan",
+    "occupation": "Progress OpenEdge Developer",
+    "description": "Progress OpenEdge Developer by Day, Content Creator and Self Learner by Night",
+    "key" : "#CodeWithBravopy",
+    "image": "humzahasan.png",
+    "bio": "My name is Humza, I'm a Progress Openedge Developer in a MNC. Currently aspiring to be a MERN Stack Developer and an amazing content creator",
+    "contactmessage": "Get in touch with me to receive further details, collaborate in projects and learn together.",
+    "email": "humzahasan2101@gmail.com",
+    "phone": "+91 8272997708",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Ramapuram",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600 089"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://www.linkedin.com/in/humzahasannit/",
+    "resumedownload": "https://www.linkedin.com/in/humzahasannit/",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/humza.hasan/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/humzahasannit/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/codewithbravopy/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/humzahasan",
         "className": "fa fa-github"
+      },
+      {
+        "name": "dev.to",
+        "url": "https://dev.to/thehumzahasan",
+        "className": "fa fa-code"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/thehumzahasan",
+        "className": "fa fa-twitter"
       }
+
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My Skills varies from time to time, I love to work at legacy codebases in the morning and follow my passion at night.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Narula Institute Of Technology",
+        "degree": "Bachelors in Technology, Computer Science and Engineering",
+        "graduated": "August 2018",
+        "description": "Graduated"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Tata Consultancy Services",
+        "title": "Assistant System Engineer",
+        "years": "December 2018 - Present",
+        "description": "Progress Openedge Developer"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Code With Bravopy",
+        "title": "Content Creator",
+        "years": "June 2020 - Present",
+        "description": "Content Creation"
+      },
+      {
+        "company": "The Uplift Project",
+        "title": "HTML CSS JS Mentor",
+        "years": "June 2020 - August 2020",
+        "description": "Mentor for The Uplift Project for HTML CSS JS stack"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "HTML5",
+        "level": "70%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "65%"
       },
       {
-        "name": "Git",
+        "name": "Progress OpenEdge",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "NodeJs",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
         "level": "55%"
       },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
+
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "45%"
+      },
+      {
+        "name": "Canva && Adobe XD",
+        "level": "35%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "InstaTech Community",
+        "category": "Facebook Messenger Clone built with ReactJS",
+        "image": "instatech.png",
+        "url": "https://insta-tech-community.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "DevGram",
+        "category": "Instagram Clone built with ReactJS",
+        "image": "devgram.png",
+        "url": "https://devgrampro.web.app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Covid Tracker",
+        "category": "Covid Tracker built with ReactJS",
+        "image": "covidtrack.png",
+        "url": "https://covid19indiatrack.netlify.app/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Wassup",
+        "category": "Work In Progress : Whatsapp Clone built with MERN Stack",
+        "image": "wassup.png",
+        "url": ""
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Thanks for taking the lead Humza, and taking us all together till the end of the project. It was an amazing journey full of learning, and the end product is great",
+        "user": "Mentee 1"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Thank you Humza, because of your guidance only we were able to complete it and you provided us the best materials to learn and really I learnd a lot in these months. You were so kind and responsive in this journey",
+        "user": "Mentee 2"
+      },
+      {
+        "text": "Thank you Humza for helping and guiding us through this journey of web development. I really learnt alot from the resources provided by you.",
+        "user": "Mentee 3"
       }
     ]
   }
